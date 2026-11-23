@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PadPhone</string>
+    <string name="status_disconnected">Desligado</string>
+    <string name="status_connecting">A ligar…</string>
+    <string name="status_connected">Ligado</string>
+    <string name="cd_btn_l">Botão L (Trocar de jogador)</string>
+    <string name="cd_btn_r">Botão R (Correr rápido)</string>
+    <string name="cd_btn_triangle">Botão Triângulo</string>
+    <string name="cd_btn_circle">Botão Círculo</string>
+    <string name="cd_btn_cross">Botão Cruz</string>
+    <string name="cd_btn_square">Botão Quadrado</string>
+    <string name="cd_btn_select">Botão Select</string>
+    <string name="cd_btn_start">Botão Start</string>
+    <string name="cd_btn_home">Botão PS Home</string>
+    <string name="cd_dpad">Direcional D-Pad</string>
+    <string name="cd_analog">Stick Analógico</string>
+    <string name="cd_settings">Configurações e Ligação</string>
+    <string name="cd_fullscreen">Alternar ecrã cheio e orientação</string>
+</resources>

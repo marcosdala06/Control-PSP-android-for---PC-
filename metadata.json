@@ -1,0 +1,6 @@
+{
+  "name": "PadPhone",
+  "description": "Comando virtual PSP/PPSSPP sem fios para PC Linux com multitoque real e suporte completo L/R.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
